@@ -1,1 +1,4 @@
-# audio-disaster-making
+Some Fun Tips For Making Audio Disasters
+========================================
+
+TODO add anything
